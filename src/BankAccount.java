@@ -1,6 +1,6 @@
 public class BankAccount{
     public static void main(String[] args){
-        float balance = 2175.37f;
+        double balance = 2175.37;
 
         balance -= 302.5; //frist withdraw
         balance += 50.03; //first deposit
